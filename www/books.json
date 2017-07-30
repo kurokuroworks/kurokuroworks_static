@@ -1,5 +1,11 @@
 [
   {
+    "title": "情報ガール",
+    "meta": "2017 / 技術書典2",
+    "description": "説明文説明文説明文説明文説明文",
+    "href": "#",
+    "thumbnail": "https://static.kurokuroworks.net/www/books/images/dummy.jpg"
+  },{
     "title": "にゃんぱす！製作日誌",
     "meta": "2016 / C89",
     "description": "にゃんぱす！の開発で得た知見を纏めた技術本。空港駆動開発の話など。",
