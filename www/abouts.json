@@ -1,15 +1,38 @@
 [
-  {
-    "title": "なのくろ",
-    "meta": "フロントエンドエンジニア",
-    "description": "好きなキャラクターは涼宮ハルヒ。",
-    "href": "https://twitter.com/nanocloudx",
-    "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
-  },{
-    "title": "黒曜",
-    "meta": "バックエンドエンジニア",
-    "description": "好きな投影機はカール・ツァイス社製「ツァイスIV型」プラネタリウム。",
-    "href": "https://twitter.com/kokuyouwind",
-    "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/kokuyouwind.png"
-  }
+  [
+    {
+      "title": "なのくろ",
+      "meta": "フロントエンドエンジニア",
+      "description": "サークル主がかわいいと思った？？？残念！さやかちゃんでした！！！",
+      "href": "https://twitter.com/nanocloudx",
+      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
+    },
+    {
+      "title": "黒曜",
+      "meta": "バックエンドエンジニア",
+      "description": "関数型言語が好きな数学者。ディズニー博士。好きな投影機はカール・ツァイス社製「ツァイスIV型」プラネタリウム。",
+      "href": "https://twitter.com/kokuyouwind",
+      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/kokuyouwind.png"
+    }
+  ],
+  [
+    {
+      "title": "名無しさん",
+      "meta": "ボット",
+      "href": "https://twitter.com/nanocloudx",
+      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
+    },
+    {
+      "title": "名無しさん",
+      "meta": "イラストレーター",
+      "href": "https://twitter.com/nanocloudx",
+      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
+    },
+    {
+      "title": "名無しさん",
+      "meta": "イラストレーター",
+      "href": "https://twitter.com/nanocloudx",
+      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
+    }
+  ]
 ]
