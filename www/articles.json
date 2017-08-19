@@ -1,4 +1,16 @@
 [{
+  "id": "travel-newyork",
+  "title": "ニューヨークへ行ってきた",
+  "meta": "2017/05/05–08, 旅行",
+  "description": "FLY TO THE WORLD vol.05",
+  "thumbnail": "https://static.kurokuroworks.net/www/articles/travel-newyork/001.jpg"
+},{
+  "id": "travel-singapole",
+  "title": "シンガポールへ行ってきた",
+  "meta": "2017/03/18–20, 旅行",
+  "description": "FLY TO THE WORLD vol.04",
+  "thumbnail": "https://static.kurokuroworks.net/www/articles/travel-singapole/001.jpg"
+},{
   "id": "travel-melbourne",
   "title": "メルボルンへ行ってきた",
   "meta": "2017/01/07-11, 旅行",
