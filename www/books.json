@@ -4,18 +4,18 @@
     "title": "情報ガール",
     "meta": "2017/04/09, 技術書典2, 黒曜, 技術誌",
     "description": "数学ガールのオマージュ作品。ブール演算と集合演算の同型性を学ぶ物語。",
-    "thumbnail": "https://static.kurokuroworks.net/www/books/information_girl/information_girl.jpg"
+    "thumbnail": "https://static.kurokuroworks.net/www/books/information_girl/images/information_girl.jpg"
   },{
     "id": "nyanpass_book",
     "title": "にゃんぱす！製作日誌",
     "meta": "2016/12/31, コミックマーケット91, 黒曜, なのくろ, 技術誌",
     "description": "にゃんぱす！の開発で得た知見を纏めた技術本。選定技術や空港駆動開発の話など。",
-    "thumbnail": "https://static.kurokuroworks.net/www/books/nyanpass_book/nyanpass_book.jpg"
+    "thumbnail": "https://static.kurokuroworks.net/www/books/nyanpass_book/images/nyanpass_book.jpg"
   },{
     "id": "azunyan_html5",
     "title": "あずにゃんでもわかるHTML5",
     "meta": "2011/12/31, コミックマーケット81, なのくろ, 技術誌",
     "description": "当時策定中だったHTML5について纏めた技術本。けいおん!の二次創作にあわせて紹介。",
-    "thumbnail": "https://static.kurokuroworks.net/www/books/azunyan_html5/azunyan_html5.png"
+    "thumbnail": "https://static.kurokuroworks.net/www/books/azunyan_html5/images/azunyan_html5.png"
   }
 ]
