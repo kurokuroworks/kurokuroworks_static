@@ -9,20 +9,20 @@
 日本語は当然通じませんが、英語も理解してもらえないことが多かった為、会話には苦労しました。また治安はさほど悪くありません。
 
 ## フェリーは大変
-![フェリーは大変](https://static.kurokuroworks.net/www/articles/travel-macau/002.jpg)
+![フェリーは大変](https://static.kurokuroworks.net/www/articles/travel-macau/images/002.jpg)
 マカオへ入国する方法は、マカオ行きの直行便に搭乗するか、香港国際空港を経由して、フェリーでマカオに入国する方法があります。
 マカオ国際空港の発着便は少ないため、香港国際空港からフェリーを利用するケースのほうが多いかと思います。
 しかしフェリーは非常に揺れが激しく、乗り物酔いに弱い人は覚悟したほうがいいかもしれません。
 また香港国際空港でフェリーに乗り継ぐまでの待ち時間が長い場合が有り、時間のロスが多い点も注意が必要です。
 
 ## 蒸し暑い
-![蒸し暑い](https://static.kurokuroworks.net/www/articles/travel-macau/003.jpg)
+![蒸し暑い](https://static.kurokuroworks.net/www/articles/travel-macau/images/003.jpg)
 季節によるかもしれませんが、夏場は非常に蒸し暑いです。
 気温は東京と同じぐらいですが、湿度が圧倒的に高く、外に出ただけで湿気がくっついてくる感じがしました。
 涼しい部屋からカメラを出すと、レンズが曇ってしまうほどでした。
 
 ## 交通事故に気をつけて
-![交通事故に気をつけて](https://static.kurokuroworks.net/www/articles/travel-macau/004.jpg)
+![交通事故に気をつけて](https://static.kurokuroworks.net/www/articles/travel-macau/images/004.jpg)
 道路に信号がほとんどありません。横断歩道も少ないです。
 大半の交差点がラウンドアバウトになっています。
 運転も日本と比較して荒い印象です。バイクやタクシーが飛んできます。
@@ -41,7 +41,7 @@
 サービスは各カジノで異なりますが、アイスティーやコーラなどのソフトドリンクなども注文すれば無料で貰えたりします。
 
 ## カジノは金持ちの行くところ
-![カジノは金持ちの行くところ](https://static.kurokuroworks.net/www/articles/travel-macau/005.jpg)
+![カジノは金持ちの行くところ](https://static.kurokuroworks.net/www/articles/travel-macau/images/005.jpg)
 まあ当たり前ではありますが、カジノは金銭に余裕がなければ楽しむことができません。
 今回僕はポーカーをしてみたいと思いカジノへ行きましたが、最も低いレートでも最低$2000HKDが必要だったので、僕の所持金では到底遊ぶことができませんでした。
 
@@ -52,20 +52,20 @@
 無料とは思えない品揃えで、スイカやメロン、マンゴーやパパイヤなどをいくら注文しても無料で食べられました。しかも美味い。個人的には温かい杏仁豆腐のような飲み物が大変気に入りました。(名前は忘れた)
 
 ## いろんな建造物やショーが見れる
-![いろんな建造物やショーが見れる](https://static.kurokuroworks.net/www/articles/travel-macau/006.jpg)
+![いろんな建造物やショーが見れる](https://static.kurokuroworks.net/www/articles/travel-macau/images/006.jpg)
 あちらこちらにホテルが有り、どれも派手な建物でした。
 散策しているとウォーターショーや、巨大なネオン、ドラゴンや馬のモニュメントが見れたりします。
 調べてみるとマカオには数々の世界遺産があるそうなので、それらに行くのも良いかと思います。
 
 ## マカオタワー
-![マカオタワー](https://static.kurokuroworks.net/www/articles/travel-macau/007.jpg)
+![マカオタワー](https://static.kurokuroworks.net/www/articles/travel-macau/images/007.jpg)
 今回僕は時間と金に余裕がなかったので寄ることができませんでしたが、
 マカオの中心部にあるマカオタワーでは、バンジージャンプや空中散歩を楽しむことができます。
 東京タワーと同じぐらいの高さが有り、そこから飛び降りるドキドキは想像できません。
 最頂部まで自力で登るアトラクションもあるらしく、非常に楽しそうなのでおすすめしておきます。
 
 ## いつかまた来たい
-![いつかまた来たい](https://static.kurokuroworks.net/www/articles/travel-macau/008.jpg)
+![いつかまた来たい](https://static.kurokuroworks.net/www/articles/travel-macau/images/008.jpg)
 僕にとって初めての海外旅行でしたが、友人と４名で行ったため比較的安心して渡航することが出来ました。
 (英語が通じる相手であれば)片言の英語でもコミュニケーションを取ることができたのが嬉しかったです。
 ではでは。
