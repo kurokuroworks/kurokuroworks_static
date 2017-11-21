@@ -12,7 +12,7 @@
 ## チャンギ国際空港
 ![](https://static.kurokuroworks.net/www/articles/travel-singapole/images/003.jpg)
 シンガポール・チャンギ国際空港は東南アジアにおけるハブ空港です。
-詳しくはこちらの記事に纏めています。
+詳しくは[こちらの記事](https://www.kurokuroworks.net/articles/airport-changi/)に纏めています。
 
 ## 交通手段
 ![](https://static.kurokuroworks.net/www/articles/travel-singapole/images/004.jpg)

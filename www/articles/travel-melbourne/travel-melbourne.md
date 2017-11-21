@@ -22,7 +22,7 @@
 
 ## メルボルン空港
 ![](https://static.kurokuroworks.net/www/articles/travel-melbourne/images/005.jpg)
-メルボルン空港についてはこちらの記事にて紹介しています。
+メルボルン空港については[こちらの記事](https://www.kurokuroworks.net/articles/airport-melbourne/)にて紹介しています。
 小さい空港でしたがIT化が進んでいて感心しました。
 
 ## 市街地へのアクセス

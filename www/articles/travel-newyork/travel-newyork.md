@@ -12,7 +12,7 @@
 ## ジョン・F・ケネディ国際空港
 ![](https://static.kurokuroworks.net/www/articles/travel-newyork/images/003.jpg)
 JFKはニューヨークを代表する空港です。
-詳しくはこちらの記事に纏めています。
+詳しくは[こちらの記事](https://www.kurokuroworks.net/articles/airport-john-f-kennedy/)に纏めています。
 
 ## 交通手段
 ![](https://static.kurokuroworks.net/www/articles/travel-newyork/images/004.jpg)

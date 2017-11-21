@@ -31,11 +31,10 @@
 
 ## ニノイ・アキノ国際空港
 ![](https://static.kurokuroworks.net/www/articles/travel-manila/images/007.jpg)
-マニラの空港についてはこちらの記事をごらんください。
-数年前に比べてだいぶマシになったらしいですが、治安は結構悪いです。
+マニラの空港については[こちらの記事](https://www.kurokuroworks.net/articles/airport-ninoy-aquino/)をご覧ください。
+治安は結構悪いです。
 
 ## 実は観光していない
-![](https://static.kurokuroworks.net/www/articles/travel-manila/images/008.jpg)
 旅行記のくせに、実は今回観光していません。
 フィリピンは治安が悪いので、空港とカジノ以外どこへも行きませんでした。
 
@@ -44,6 +43,6 @@
 今年だけでもカジノで銃撃と放火があったり、大統領公邸で銃撃があったりなど悪いニュースが絶えませんし、スリや恐喝も頻発しているとのこと。
 
 ## まとめ
-![](https://static.kurokuroworks.net/www/articles/travel-manila/images/009.jpg)
+![](https://static.kurokuroworks.net/www/articles/travel-manila/images/008.jpg)
 今回は観光していない為、これといって書けることがありませんでした。。
 私も空港で賄賂を要求されたので、治安はお察しください。
