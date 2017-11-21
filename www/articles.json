@@ -1,4 +1,10 @@
 [{
+  "id": "travel-manila",
+  "title": "マニラへ行ってきた",
+  "tag": "2017/11/17, なのくろ, おでかけ",
+  "description": "FLY TO THE WORLD vol.06",
+  "thumbnail": "https://static.kurokuroworks.net/www/articles/travel-manila/images/001.jpg"
+},{
   "id": "travel-newyork",
   "title": "ニューヨークへ行ってきた",
   "tag": "2017/05/05, なのくろ, おでかけ",
@@ -28,6 +34,12 @@
   "tag": "2014/08/05, なのくろ, おでかけ",
   "description": "FLY TO THE WORLD vol.01",
   "thumbnail": "https://static.kurokuroworks.net/www/articles/travel-macau/images/001.jpg"
+},{
+  "id": "airport-ninoy-aquino",
+  "title": "ニノイ・アキノ国際空港",
+  "tag": "2017/11/17, なのくろ, おでかけ",
+  "description": "FLY TO THE WORLD extra",
+  "thumbnail": "https://static.kurokuroworks.net/www/articles/airport-ninoy-aquino/images/001.jpg"
 },{
   "id": "airport-john-f-kennedy",
   "title": "ジョン・F・ケネディ国際空港",
