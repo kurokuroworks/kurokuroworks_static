@@ -1,5 +1,11 @@
 [
   {
+    "id": "lifegame",
+    "title": "いろんな言語でライフゲーム",
+    "tag": "2017/10/22, 技術書典3, 黒曜, 技術誌",
+    "description": "いろんな言語でライフゲームを実装。",
+    "thumbnail": "https://static.kurokuroworks.net/www/books/lifegame/images/lifegame.jpg"
+  },{
     "id": "information_girl",
     "title": "情報ガール",
     "tag": "2017/04/09, 技術書典2, 黒曜, 技術誌",
