@@ -14,23 +14,22 @@
 チップも気が向いたら払えばいい程度で、基本的には必要ではない印象でした。
 
 ## 食事
-![](https://static.kurokuroworks.net/www/articles/travel-manila/images/004.jpg)
 今回の旅行ではフィリピンらしい料理というのはあまり食べなかったのですが、総じて日本人にとっては食べやすい味付けが多い印象です。量も普通で欧米みたいに大盛りの何かがでてくることもありませんでした。
 
 ## 交通
-![](https://static.kurokuroworks.net/www/articles/travel-manila/images/005.jpg)
+![](https://static.kurokuroworks.net/www/articles/travel-manila/images/004.jpg)
 タクシーに乗って少しだけ市街地を走りましたが、基本的に渋滞しています。
 そして信号は一応存在しますが平然と無視して走る車が多かったです。恐ろしい。
 
 ## City of Dreams Manila
-![](https://static.kurokuroworks.net/www/articles/travel-manila/images/006.jpg)
+![](https://static.kurokuroworks.net/www/articles/travel-manila/images/005.jpg)
 今回の主目的はカジノだったので、ずっと City of Dreams にいました。
 カジノは入口の警備がしっかりしていたので、中にいる限りは比較的安心して楽しむことができました。
 飲み物は無料で貰えますが、注文しても忘れられるか届かないことが多いので残念でした。
 ホテルにはプールがあったり、レストラン、クラブ、コンビニなどもありました。
 
 ## ニノイ・アキノ国際空港
-![](https://static.kurokuroworks.net/www/articles/travel-manila/images/007.jpg)
+![](https://static.kurokuroworks.net/www/articles/travel-manila/images/006.jpg)
 マニラの空港については[こちらの記事](https://www.kurokuroworks.net/articles/airport-ninoy-aquino/)をご覧ください。
 治安は結構悪いです。
 
@@ -43,6 +42,6 @@
 今年だけでもカジノで銃撃と放火があったり、大統領公邸で銃撃があったりなど悪いニュースが絶えませんし、スリや恐喝も頻発しているとのこと。
 
 ## まとめ
-![](https://static.kurokuroworks.net/www/articles/travel-manila/images/008.jpg)
+![](https://static.kurokuroworks.net/www/articles/travel-manila/images/007.jpg)
 今回は観光していない為、これといって書けることがありませんでした。。
 私も空港で賄賂を要求されたので、治安はお察しください。
