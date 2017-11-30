@@ -10,4 +10,6 @@
 - 執筆者
   - 黒曜
 - 表紙
-  - ...
+  - ab様
+- 購入
+  - [BOOTH](https://kokuyouwind.booth.pm/items/487999)

@@ -11,3 +11,5 @@
   - 黒曜
 - 表紙
   - なのくろ
+- 購入
+  - [BOOTH](https://kokuyouwind.booth.pm/items/663840)

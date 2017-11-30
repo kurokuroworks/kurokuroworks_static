@@ -1,26 +1,16 @@
 [
-  [
-    {
-      "title": "なのくろ",
-      "tag": "フロントエンドエンジニア",
-      "description": "深夜アニメが好きなサークル主。気分屋で寂しがり。疲労が重なると「かわいくなりたい」と錯乱する。",
-      "href": "https://twitter.com/nanocloudx",
-      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
-    },
-    {
-      "title": "黒曜",
-      "tag": "バックエンドエンジニア",
-      "description": "関数型言語が好きな数学者。ディズニー博士。最近はデレマスに夢中。お気に入りの投影機はカール・ツァイス社製「ツァイスIV型」プラネタリウム。",
-      "href": "https://twitter.com/kokuyouwind",
-      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/kokuyouwind.png"
-    }
-  ],
-  [
-    {
-      "title": "名無しさん",
-      "tag": "ボット",
-      "href": "https://twitter.com/nanocloudx",
-      "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
-    }
-  ]
+  {
+    "title": "なのくろ",
+    "tag": "フロントエンドエンジニア",
+    "description": "深夜アニメが好きなサークル主。気分屋で寂しがり。エンジニアには向いていない。",
+    "href": "https://twitter.com/nanocloudx",
+    "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/nanocloudx.png"
+  },
+  {
+    "title": "黒曜",
+    "tag": "バックエンドエンジニア",
+    "description": "関数型言語が好きな数学者。ディズニー博士。最近はデレマスに夢中。お気に入りの投影機はカール・ツァイス社製「ツァイスIV型」プラネタリウム。",
+    "href": "https://twitter.com/kokuyouwind",
+    "thumbnail": "https://static.kurokuroworks.net/www/abouts/images/kokuyouwind.png"
+  }
 ]
